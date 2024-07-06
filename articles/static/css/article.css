@@ -1,0 +1,128 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+.archive {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.archive .header img {
+    display: block;
+    width: 318px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.archive .new_article {
+    color: #ffffff;
+    font-size: 24px;
+    text-align: right;
+}
+
+.archive .archive .one-post .post-title {
+    font-size: 32px;
+    line-height: 64px;
+}
+
+.archive .archive .one-post .article-info .article-author {
+    width: 50%;
+    float: left;
+}
+
+.archive .archive .one-post .article-info .article-created-date {
+    text-align: right;
+}
+
+.archive .archive .one-post .article-text {
+    font-size: 14px;
+}
+
+.article {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.article .header img {
+    display: block;
+    width: 20%;
+    height: 20%;
+}
+
+.article .article .all_article {
+    color: #ffffff;
+    font-size: 24px;
+    text-align: right;
+}
+
+.article .article .one-post .post-title {
+    font-size: 32px;
+    line-height: 64px;
+}
+
+.article .article .one-post .article-info .article-author {
+    width: 50%;
+    float: left;
+}
+
+.article .article .one-post .article-info .article-created-date {
+    text-align: right;
+}
+
+.article .article .one-post .article-text {
+    font-size: 14px;
+}
+
+.content {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content .header img {
+    display: block;
+    width: 318px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content .content h1 {
+    font-size: 32px;
+}
+
+.content .content input[type=text], textarea {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.content .content input[type=text] {
+    width: 50%;
+}
+
+.content .content textarea {
+    width: 100%;
+}
+
+.content .content input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
